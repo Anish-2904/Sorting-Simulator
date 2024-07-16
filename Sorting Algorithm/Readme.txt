@@ -1,5 +1,5 @@
-Name: - Amit Kumar
-Reg no: 72112121
+Name: - Anish kumar , Amit Kumar
+Reg no: 72112904 , 72112121
 
 #Sorting Visualizer
 
